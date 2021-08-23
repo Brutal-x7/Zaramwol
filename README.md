@@ -56,7 +56,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Raashii/ZaraMwol)
 
-[![Deploy](https://i.ibb.co/4M4qV0L/IMG-20210819-095708.png)](https://heroku.com/deploy?template=https://github.com/Brutal-x7/Zaramwol)
+[![Deploy](https://i.ibb.co/4M4qV0L/IMG-20210819-095708.png)](https://heroku.com/deploy?template=https://github.com/Brutal-x7/Zaramwol.git)
      </div>
 <br>
 <br >
